@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_b2948abe5b3000722ca198e6f0e1be2abd77b466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_9435c48e649a240e799019a9b2ffc4542f684c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="20f1ec9ff9c6b9788c476e4d7bb96fc44107d040">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d8bd119d1e3bc091aee0dfeb0770f3cc5858fa95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_acffce2f0fb9f9c47a9ccb4fcfd274be51e7a388\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_5b33956a251c72bc0a51ce1bf11e87e52bed9024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e15031b4de97d06d9b9a0358ac891da7b2d3e4e8">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6461c5ead7351702320ceceab8e5926a6f8fb3d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-emotion-1.0.0_88c273f902637fc2874513b326f64154f0153aa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-face-1.0.0_3f03cc7109814a8b86d5727ca4c09e5fd3096dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_2d236cab799b1ff225a57f868efe15501f563344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Hmatl\Desktop\CSC 588 Mobile Sensing\Cognitive-Emotion-Android-master\Sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_598001311410c91cd34856f22fcf375602ea72ae\classes.dex" />
+    </item>
+
+</items>
